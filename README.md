@@ -1,22 +1,18 @@
 # circle-app-react-hook
 
-
-
 ## 1、 Introduction
 
 ### Second hand trade app based on react
 
+## 2、How to run
 
-
-## 2、How to run 
-
-### 2.1  Pull the code to your local
+### 2.1 Pull the code to your local
 
 ```
-git clone https://github.com/Stone-Ye/circle-app-react-hook
+git clone git@github.com:peeiwen/Circcle.git
 ```
 
-### 2.2   install the dependences
+### 2.2 install the dependences
 
 ```
 npm install
@@ -30,10 +26,10 @@ npm run start
 
 ### 2.4 Deploy
 
-#### 2.4.1 build the project as  static file
+#### 2.4.1 build the project as static file
 
 ```
 npm run build
 ```
 
-#### 2.4.2 deploy at the remote service 
+#### 2.4.2 deploy at the remote service
